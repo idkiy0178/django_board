@@ -1,0 +1,2 @@
+# django_board
+UdemyでDjangoでのWebアプリ開発の入門講座を購入し，SNSアプリを作成しています．10月20日の時点では開発途中です．
